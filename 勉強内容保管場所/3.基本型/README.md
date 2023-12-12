@@ -1,3 +1,9 @@
+---
+title: "Go言語の基本型について"
+topics: ["Golang", "type"]
+published: true
+---
+
 # 基本型
 
 基本の型について学ぶ
