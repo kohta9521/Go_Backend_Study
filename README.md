@@ -1,5 +1,5 @@
 <div align="center">
- <img width="300" alt="logo" src="https://github.com/kohta9521/Go_Backend_Strudy/assets/100065508/8dd88565-268f-4d23-a1e2-35bc21d4ce61">
+ <img alt="logo" src="https://github.com/kohta9521/Go_Backend_Strudy/assets/100065508/8dd88565-268f-4d23-a1e2-35bc21d4ce61">
     <h1 align="center">Golang Study Project</h1>
     <p align="center">
         kohtaのGo言語の勉強内容の保管場所。コードはもちろん勉強した内容をブログ形式でmarkdownでまとめている。
