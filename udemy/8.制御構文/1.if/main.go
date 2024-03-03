@@ -5,4 +5,3 @@ package main
 
 func main() {	
 }
-
