@@ -7,14 +7,14 @@ import "fmt"
 
 func main() {
 	// 無限ループ
-	// i := 0
-	// for {
-	// 	i ++
-	// 	if i == 3 {
-	// 		break
-	// 	}
-	// 	fmt.Println("Looooop");
-	// }
+	i := 0
+	for {
+		i ++
+		if i == 3 {
+			break
+		}
+		fmt.Println("Looooop");
+	}
 
 	// 条件付きfor文
 	// point := 0
