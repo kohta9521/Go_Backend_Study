@@ -17,11 +17,11 @@ func main() {
 	}
 
 	// 条件付きfor文
-	point := 0
-	for point < 10 {
-		fmt.Println(point)
-		point ++
-	}
+	// point := 0
+	// for point < 10 {
+	// 	fmt.Println(point)
+	// 	point ++
+	// }
 
 	// 古典的for文
 	for i := 0; i < 10; i ++ {
