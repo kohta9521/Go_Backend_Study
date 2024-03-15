@@ -12,7 +12,7 @@ func main() {
 	fmt.Println(m1)
 	fmt.Printf("%T\n", m1)
 
-	i := 100
-	fmt.Println(m1 + i)
+	// i := 100
+	// fmt.Println(m1 + i)
 
 }
