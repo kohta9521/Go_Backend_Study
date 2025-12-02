@@ -3,5 +3,8 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello, golang!")
+	var n int
+	n = 100
+	fmt.Println(n)
+
 }
